@@ -2,3 +2,4 @@
 
 Home of `rq`, the fastest engine for JSONPath queries.
 
+The binary and library live in [/rsonpath](https://github.com/rsonquery/rsonpath). 
